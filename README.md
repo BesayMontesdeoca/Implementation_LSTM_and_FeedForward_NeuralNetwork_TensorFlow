@@ -4,4 +4,4 @@
 
 [EN]In recent years, in the field of renewable energy, wind energy has been one that more has developed and invested. The importance of wind predictions is in the help they provide to plan and anticipate future values that affect the system, helping to manage the acquisition of the necessary resources in advance. Recently developed new architectures recurrent networks that are very promising for prediction. In this work we will be tested and experiment with these architectures fordifferent predictions of wind speed in a horizon of short and very short term from time series data of wind.
 
--->[Memoria]
+-->[Memoria](https://github.com/BesayMontesdeoca/Implementation_LSTM_and_FeedForward_NeuralNetwork_TensorFlow/blob/master/BesayMontesdeocaTFG.pdf)
